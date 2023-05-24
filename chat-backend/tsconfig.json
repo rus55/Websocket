@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    /*"module": "common.js",*/
+    /*"lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],*/
+    "allowJs": true,
+    "sourceMap": true,
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "esModuleInterop": true,
+    /*"skipLibCheck": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react"*/
+  },
+  /*"include": [
+    "src"
+  ]*/
+}
